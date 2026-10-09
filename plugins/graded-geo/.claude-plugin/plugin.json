@@ -1,0 +1,14 @@
+{
+  "name": "graded-geo",
+  "displayName": "Graded GEO",
+  "version": "0.2.0",
+  "description": "The Graded GEO walk for a website repo: read what a plain fetch sees, diagnose the four-answer card, fix as pull requests (robots.txt for AI bots, llms.txt plus its visible advertisement, answer blocks and FAQ, LocalBusiness JSON-LD, NAP), advertise the fact file where a model reads, recheck with the same free tools. A human merges.",
+  "author": {
+    "name": "Graded",
+    "url": "https://usegraded.com"
+  },
+  "homepage": "https://usegraded.com/tools",
+  "repository": "https://github.com/GradedLabs/graded-geo-plugin",
+  "license": "MIT",
+  "keywords": ["geo", "ai-search", "llms-txt", "robots-txt", "json-ld", "seo"]
+}

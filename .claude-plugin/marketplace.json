@@ -1,0 +1,12 @@
+{
+  "name": "graded-geo-plugin",
+  "description": "Graded GEO fixes for website repos — read what AI can fetch, diagnose, fix as pull requests, recheck with the free tools. A human merges.",
+  "owner": { "name": "Graded", "url": "https://usegraded.com" },
+  "plugins": [
+    {
+      "name": "graded-geo",
+      "source": "./plugins/graded-geo",
+      "description": "Commodity GEO fixes as pull requests (robots.txt for AI bots, llms.txt + advertisement, answer blocks and FAQ, LocalBusiness JSON-LD, NAP)"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "graded-crawl-checker": {
+      "type": "http",
+      "url": "https://usegraded.com/api/mcp/ai-crawl-checker"
+    },
+    "graded-readiness": {
+      "type": "http",
+      "url": "https://usegraded.com/api/mcp/ai-search-readiness"
+    }
+  }
+}
